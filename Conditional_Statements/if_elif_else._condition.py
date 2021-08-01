@@ -26,8 +26,8 @@ else:
 
 # if expression has three posibilities, you can use 'Else', Else is default block
 
-a=eval(input("Enter Your First Number: "))
-b=eval(input("Enter Your Second Number: "))
+a=eval(input("Enter Your First Number As Your Wish: "))
+b=eval(input("Enter Your Second Number As Your Wish: "))
 
 if a > b:
     print(f"{a} is greater than {b}")
